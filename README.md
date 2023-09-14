@@ -8,10 +8,6 @@
 
 ###
 
-<h1 align="center">· Knowledge ·</h1>
-
-###
-
 <p align="left">🟣 Studying: Bachelor of 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 with a focus on 𝐞𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.<br>🟣 Studying: 𝐌𝐞𝐜𝐡𝐚𝐭𝐫𝐨𝐧𝐢𝐜𝐬 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐢𝐚𝐧.</p>
 
 ###
@@ -35,11 +31,8 @@
 
 ###
 
-<h1 align="center">· About me ·</h1>
 
-###
-
-<div align="left">
+<div align="center">
   <a href="Rea4Dev@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
@@ -47,15 +40,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=1&username=Rea4Dev&theme=midnight-purple" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Rea4Dev/Rea4Dev/output/snake.svg" alt="Snake animation" />
-
-###
