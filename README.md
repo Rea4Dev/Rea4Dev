@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img height="400" src="./7af.gif"  />
+  <img height="338" src="./7af.gif"  />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rea4Dev&bg_color=0d1117&color=c92f4b&line=c92f4b&point=c92f4b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
