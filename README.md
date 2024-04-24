@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=35&center=true&vCenter=true&width=1000&lines=❤+Hello,+I'm+Rea!+❤;-+Studying+Bachelor+of+Software+Engineering;-+Studying+Mechatronics+Technician;-+Focused+studies+in+Data+Analytics;Be+Wellcome+❣)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=35&center=true&vCenter=true&width=1000&lines=❤+Hello,+I'm+Rea!+❤;-+Studying+Bachelor+of+Software+Engineering;-+Intern+at+CPFL+Energy;-+Focused+studies+in+Data+Analytics;-+Studying+Mechatronics+Technician;Be+Wellcome+❣)](https://git.io/typing-svg)
 
 </h1>
 
