@@ -21,9 +21,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=20&center=true&vCenter=true&width=1000&lines=Main+Languages+and+Tools)](https://git.io/typing-svg)
 
 <div align="center" style="color:red;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="40" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c92f4b&height=120&section=footer"/>
