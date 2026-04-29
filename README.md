@@ -2,13 +2,13 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=35&center=true&vCenter=true&width=1000&lines=❤+Hello,+I'm+Rea!+❤;-+Studying+Bachelor+of+Software+Engineering+(9/10);-+Studying+Bachelor+of+Computer+Engineering+(4/10);-+Intern+at+Embraer;-+Focused+studies+in+Data+Science;Be+Wellcome+❣)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=35&center=true&vCenter=true&width=1000&lines=❤+Hello,+I'm+𝕽𝖊𝖆!+❤;•+Bachelor's+degree+in+Software+Engineer;•+Developer+in+Embraer;𝓑𝓮+𝔀𝓮𝓵𝓵𝓬𝓸𝓶𝓮+❣)](https://git.io/typing-svg)
 
 </h1>
 
 
 <div align="center">
-  <img height="338" src="./7af.gif"  />
+  <img src="./7af.gif" width="100%" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rea4Dev&bg_color=0d1117&color=c92f4b&line=c92f4b&point=c92f4b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -18,13 +18,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rea4Dev&layout=compact&count_private=false&hide_border=true&title_color=c92f4b&text_color=c92f4b&bg_color=0d1117" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=20&center=true&vCenter=true&width=1000&lines=Main+Languages+and+Tools)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c92f4b&size=20&center=true&vCenter=true&width=1000&lines=Main+Languages+and+Tools)](https://git.io/typing-svg) -->
 
-<div align="center" style="color:red;">
+<!-- <div align="center" style="color:red;">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"  height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="40" />
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c92f4b&height=120&section=footer"/>
